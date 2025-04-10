@@ -1,2 +1,2 @@
-# PrototipoIS2P2025-
-Repositorio para parte práctiCa P2
+# proyectois2k25
+Repositorio oficial curso de Ingenierìa de Software
